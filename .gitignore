@@ -1,0 +1,4 @@
+build/
+mats/
+.vscode
+__pycache__
